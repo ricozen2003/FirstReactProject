@@ -1,7 +1,12 @@
+import React from "react";
+import "./App.css";
+import Employees from "./employees";
+
 function App() {
   return (
     <div className="App">
-      <h1>Requinto, Rico Zen</h1>
+      <h1>Requinto, Rico Zen P.</h1>
+      <Employees />
     </div>
   );
 }
