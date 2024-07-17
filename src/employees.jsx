@@ -54,14 +54,14 @@ const Employees = () => {
     {
       name: "Jacod Ramirez",
       position: "Designer",
-      salary: "100000",
-      status: "Active",
+      salary: "N/A",
+      status: "Not Active",
     },
     {
       name: "Sabrina Hernandez",
       position: "Developer",
-      salary: "950000",
-      status: "Active",
+      salary: "N/A",
+      status: "Not Active",
     },
   ];
 
